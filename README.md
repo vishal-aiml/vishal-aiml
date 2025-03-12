@@ -23,7 +23,7 @@ I am an experienced AI/ML specialist and full-stack developer with over 10 years
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** https://www.linkedin.com/in/vishal-upadhyay-091/
+- **LinkedIn:** https://www.linkedin.com/in/vishal-aiml/
 - **Email:** vishalupadhyay091@gmail.com
 
 ---
